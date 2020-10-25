@@ -10,3 +10,4 @@
 <img src="https://github.com/nitrous-git/CNN-speech-recognition/blob/master/cnn%20speech%20recognition%20test%201.png" width="400">
 <img src="https://github.com/nitrous-git/CNN-speech-recognition/blob/master/cnn%20speech%20recognition%20test%202.png" width="400">
 <img src="https://github.com/nitrous-git/CNN-speech-recognition/blob/master/cnn%20speech%20recognition%20test%203.png" width="400">
+<img src="https://github.com/nitrous-git/CNN-speech-recognition/blob/master/spectro_1.jpg">
