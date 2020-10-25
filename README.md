@@ -1,7 +1,7 @@
 # CNN-speech-recognition
 <br>
 <br>This a repository for my CNN learning model used for speech command recognition.
-<br>The post process python files convert the wave files to audio spectograms and separate validation and training data sets for the CNN model in Keras.
+<br>The post process python files convert the wave files to audio spectograms and separate validation and training data sets for the CNN model.
 <br>library used : Keras, Maplotlib, Scipy and Numpy
 
 <img src="https://github.com/nitrous-git/CNN-speech-recognition/blob/master/result%20cnn%20recognition%202.png" width="400">
